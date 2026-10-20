@@ -31,5 +31,5 @@
 这一步，是小爱成为我们的家人的第一步！！！！
 
 
-
+[完整脑洞推演入口:docs/article.md](docs/article.md)
 
